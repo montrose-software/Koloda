@@ -5,10 +5,10 @@ s.name             = "Koloda"
 s.version          = "3.1.1"
 s.summary          = "KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. "
 
-s.homepage         = "https://github.com/Yalantis/Koloda"
+s.homepage         = "https://github.com/montrose-software/Koloda"
 s.license          = 'MIT'
 s.author           = "Yalantis"
-s.source           = { :git => "https://github.com/Yalantis/Koloda.git", :tag => s.version }
+s.source           = { :git => "https://github.com/montrose-software/Koloda.git", :tag => s.version }
 s.social_media_url = 'https://twitter.com/yalantis'
 
 s.platform     = :ios, '8.0'

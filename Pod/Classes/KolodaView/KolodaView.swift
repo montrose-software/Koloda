@@ -10,11 +10,11 @@ import UIKit
 import pop
 
 //Default values
-private let defaultCountOfVisibleCards = 3
-private let defaultBackgroundCardsTopMargin: CGFloat = 4.0
-private let defaultBackgroundCardsScalePercent: CGFloat = 0.95
-private let defaultBackgroundCardsLeftMargin: CGFloat = 8.0
-private let defaultBackgroundCardFrameAnimationDuration: NSTimeInterval = 0.2
+var defaultCountOfVisibleCards = 3
+var defaultBackgroundCardsTopMargin: CGFloat = 10.0
+var defaultBackgroundCardsScalePercent: CGFloat = 0.95
+var defaultBackgroundCardsLeftMargin: CGFloat = 8.0
+var defaultBackgroundCardFrameAnimationDuration: NSTimeInterval = 0.2
 
 //Opacity values
 private let defaultAlphaValueOpaque: CGFloat = 1.0
